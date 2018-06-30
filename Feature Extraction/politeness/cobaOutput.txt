@@ -1,0 +1,24 @@
+====================
+Text:  Have you found the answer for your question? If yes would you please share it?
+	P(polite) = 0.719
+	P(impolite) = 0.281
+
+
+====================
+Text:  Sorry :) I dont want to hack the system!! :) is there another way?
+	P(polite) = 0.640
+	P(impolite) = 0.360
+
+
+====================
+Text:  What are you trying to do?  Why can't you just store the "Range"?
+	P(polite) = 0.034
+	P(impolite) = 0.966
+
+
+====================
+Text:  This was supposed to have been moved to &lt;url&gt; per the cfd. why wasn't it moved?
+	P(polite) = 0.068
+	P(impolite) = 0.932
+
+
